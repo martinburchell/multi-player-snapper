@@ -1,10 +1,10 @@
 Keys:
 
-Snapper: V B J N
-Green ghost: Z X F C
-Cyan ghost: Q W 4 E
-Magenta ghost: < > : /
-Red ghost: P @ \ [
+* Snapper: V B J N
+* Green ghost: Z X F C
+* Cyan ghost: Q W 4 E
+* Magenta ghost: < > : /
+* Red ghost: P @ \ [
 
 
 File info from A5k running !65Link
